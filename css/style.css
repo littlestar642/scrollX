@@ -1,0 +1,62 @@
+.main{
+    background: url('http://res.cloudinary.com/dvxx5f4hr/image/upload/v1507895763/Best-Website-Background-Images10_wu8j1m.jpg') no-repeat;
+    height: 40vh;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    max-width:700px;
+}
+.main2{
+    background: url('http://res.cloudinary.com/dvxx5f4hr/image/upload/v1511120047/slide1_gk68y2.jpg') no-repeat;
+    height:40vh;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    max-width:700px;
+}
+.icon{
+    bottom:20px;
+    position: fixed;
+    right: 40px;
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+    
+}
+.items2{
+    flex: 4;
+    margin-top:50px;
+    text-shadow: 0 0 5px goldenrod
+}
+.black{
+    background-color: rgba(0,0, 0,.6);
+    height: 100px;
+    margin-top: 10%;
+    font-family: 'Roboto Slab', serif;
+}
+.content{
+    color: whitesmoke;
+    font-size: 4em;
+}
+
+
+.scrollXmain{
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 270vw;
+}
+.scrollXmain2{
+    overflow-x: auto;
+    overflow-y: hidden;
+    width: 270vw;
+    margin-left:-300px;
+}
+
+
